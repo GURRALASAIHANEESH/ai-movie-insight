@@ -26,7 +26,7 @@
 
 | Layer | Technology | Rationale |
 |---|---|---|
-| Frontend | Next.js 15 (App Router) | SSR, file-based routing, Vercel-native |
+| Frontend | Next.js 15.5.12 (App Router) | SSR, file-based routing, Vercel-native |
 | Language | TypeScript | Type safety and maintainability |
 | Styling | Tailwind CSS | Rapid, consistent, responsive UI |
 | Backend | Next.js API Routes | No separate server required |
