@@ -2,9 +2,7 @@
 
 > A production-ready full-stack Next.js application that accepts an IMDb ID and returns rich movie metadata powered by AI-driven audience sentiment analysis.
 
-**Live Demo:** [https://ai-movie-insight-zeta.vercel.app](https://ai-movie-insight-zeta.vercel.app)  
-**Assignment:** Full-Stack Developer Internship — Brew  
-**Deadline:** 5th March 2026
+**Live Demo:** [https://ai-movie-insight-zeta.vercel.app](https://ai-movie-insight-zeta.vercel.app)
 
 ---
 
